@@ -5,9 +5,9 @@ info:
   description: 'Create Activities API' 
 
 paths:
-  /spacecrafts/{spacecraftId}:
+  /checkUP/checkUPId}:
     parameters:
-      - name: spacecraftId
+      - name: checkUPId
         description: The unique identifier of the spacecraft
         in: path
         required: true
